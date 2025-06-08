@@ -42,7 +42,7 @@ The analysis of countries like Brazil and Pakistan tells a different but equally
 **Jupyter/Google Colab:** As the primary development environment.
 ## 6. How to Use This Repository
 
-The complete, commented code and analysis can be found in the Jupyter Notebook file: **[Untitled0.ipynb]**
+The complete, commented code and analysis can be found in the Jupyter Notebook file: **Untitled0.ipynb**
 The clean, merged dataset used for the analysis and for building the Tableau dashboard is available here: **project2_health_climate_data.csv**
-An interactive version of this analysis can be explored on my **[Tableau Public Dashboard]([(https://public.tableau.com/app/profile/william.watkins5080/vizzes)]**.
+An interactive version of this analysis can be explored on my **[Tableau Public Dashboard] (https://public.tableau.com/app/profile/william.watkins5080/vizzes)**.
 A narrative summary of this project is also available as a **[LinkedIn Article](link-to-your-linkedin-article)**.
