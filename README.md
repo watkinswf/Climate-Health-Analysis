@@ -1,6 +1,6 @@
 # Climate-Health-Analysis
 An analysis of the links between climate change, societal resilience, and global health outcomes using World Bank and WHO data
-# Project 2: Analyzing the Links Between Climate, Resilience, and Global Health
+# Analyzing the Links Between Climate, Resilience, and Global Health
 
 **Author:** [Wil Watkins]
 **Date:** June 7, 2025
